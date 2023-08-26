@@ -10,7 +10,7 @@ export const projectsData = [
     image: Work1,
     title: "Portfolio",
     category: "web",
-    deploymentLink: "",
+    deploymentLink: "https://portfolio-b8eq.onrender.com",
   },
   {
     id: 2,
